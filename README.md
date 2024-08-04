@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vyankateshnamdas</h1>
 <h3 align="center">"Electronics & Telecommunication Engineering Student | Embedded Systems | Coding with C, Python & Arduino"</h3>
-<img align="right" alt="Coding" width="370" src="back.gif">
+<img align="right" alt="Coding" width="370" src="programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyankateshanamdas&label=Profile%20views&color=0e75b6&style=flat" alt="vyankateshanamdas" /> </p>
 
